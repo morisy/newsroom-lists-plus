@@ -5,3 +5,4 @@ A collection of newsroom lists, as well as sources for information on other orga
 * [Iffy.News](https://iffy.news/index/)
 * [INN Member Directory](https://findyournews.org/campaign/inn-network-directory/)
 * https://github.com/TowCenter/partisan-local-news
+* [Project Oasis](https://www.projectnewsoasis.com/publications)
